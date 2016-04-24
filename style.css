@@ -1,0 +1,10 @@
+input[type=text] {
+	width: 40%;
+	max-width: 500px;
+	margin-bottom: 10px;
+}
+
+div.label {
+	width: 125px;
+	float: left;
+}
